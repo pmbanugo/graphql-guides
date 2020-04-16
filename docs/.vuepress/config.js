@@ -10,5 +10,10 @@ module.exports = {
       ],
       "/guide/add-description-to-scehma-types",
     ],
+    repo: "pmbanugo/graphql-guides",
+    repoLabel: "Contribute!",
+    editLinks: true,
+    docsDir: "docs",
+    editLinkText: "Help us improve this page!",
   },
 };
